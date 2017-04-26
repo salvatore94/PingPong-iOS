@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD7F6F97DFD0AB2E449319F08749BAFCA1AE0F0F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD7F6F97DFD0AB2E449319F08749BAFCA1AE0F0F" : 9223372036854775807,
+    "755D78CA4CE05A18054106506793E03FB6BDCCD8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16EA9F0E-7B3A-471C-99E7-EC2DF6748B20",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD7F6F97DFD0AB2E449319F08749BAFCA1AE0F0F" : "PingPong\/",
+    "755D78CA4CE05A18054106506793E03FB6BDCCD8" : "PingPong\/PingPong\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PingPong",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PingPong.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/salvatore94\/PingPong-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "755D78CA4CE05A18054106506793E03FB6BDCCD8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/salvatore94\/PingPong-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD7F6F97DFD0AB2E449319F08749BAFCA1AE0F0F"
+    }
+  ]
+}
